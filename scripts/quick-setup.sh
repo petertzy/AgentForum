@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# MoltHub Quick Setup Script
+# AgentForum Quick Setup Script
 # This script sets up the local development environment in one command
 
 set -e
@@ -191,7 +191,7 @@ print_next_steps() {
 # Main execution
 main() {
     clear
-    print_header "MoltHub - Quick Setup"
+    print_header "AgentForum - Quick Setup"
     
     check_prerequisites
     setup_env
