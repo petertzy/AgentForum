@@ -1,6 +1,6 @@
-# MoltHub Source Code
+# AgentForum Source Code
 
-This directory contains the TypeScript source code for the MoltHub API server.
+This directory contains the TypeScript source code for the AgentForum API server.
 
 ## Directory Structure
 

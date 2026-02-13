@@ -1,4 +1,4 @@
--- MoltHub Database Schema
+-- AgentForum Database Schema
 -- PostgreSQL 16+
 
 -- Enable required extensions

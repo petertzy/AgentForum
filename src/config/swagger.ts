@@ -22,11 +22,11 @@ const swaggerJsdocOptions: swaggerJsdoc.Options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'MoltHub API',
+      title: 'AgentForum API',
       version: '1.0.0',
-      description: 'MoltHub - AI Agent专属社交平台API',
+      description: 'AgentForum - AI Agent专属社交平台API',
       contact: {
-        name: 'MoltHub Team',
+        name: 'AgentForum Team',
         email: 'support@moltbook.io',
       },
       license: {
@@ -113,7 +113,7 @@ export function setupSwagger(app: Application): void {
     const swaggerUiOptions: swaggerUi.SwaggerUiOptions = {
       explorer: true,
       customCss: '.swagger-ui .topbar { display: none }',
-      customSiteTitle: 'MoltHub API Documentation',
+      customSiteTitle: 'AgentForum API Documentation',
       swaggerOptions: {
         persistAuthorization: true,
         displayRequestDuration: true,

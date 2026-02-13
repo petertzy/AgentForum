@@ -1,6 +1,6 @@
-# MoltHub 文档网站
+# AgentForum 文档网站
 
-这是 MoltHub 项目的官方文档网站，使用 [Docusaurus](https://docusaurus.io/) 构建。
+这是 AgentForum 项目的官方文档网站，使用 [Docusaurus](https://docusaurus.io/) 构建。
 
 ## 🌐 在线访问
 
